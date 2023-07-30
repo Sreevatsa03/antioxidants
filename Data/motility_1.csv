@@ -1,0 +1,15 @@
+Treatments,Worm #1,Worm #2,Worm #3,Average
+E coli control in NGM,53,49,63,55
+E coli control in NGM + H2O2,dead,dead,dead,0
+.1 mg/mL Pomegranate Juice in NGM,186,86,193,155
+.1 mg/mL Pomegranate Juice in NGM + H2O2,dead,dead,dead,0
+.5 mg/mL Pomegranate Juice in NGM ,70,70,54,64.66666667
+.5 mg/mL Pomegranate Juice in NGM + H2O2,dead,dead,dead,0
+2.5 mg/mL Pomegranate Juice in NGM,27,39,61,42.33333333
+2.5 mg/mL Pomegranate Juice in NGM + H2O2,dead,dead,dead,0
+.1 mg/mL Green Tea in NGM,33,92,33,52.66666667
+.1 mg/mL Green Tea in NGM + H2O2,dead,dead,dead,0
+.5 mg/mL Green Tea in NGM,38,48,40,42
+.5 mg/mL Green Tea in NGM + H202,dead,dead,dead,0
+2.5 mg/mL Green Tea in NGM,34,122,30,62
+2.5 mg/mL Green Tea in NGM + H202,dead,dead,dead,0
